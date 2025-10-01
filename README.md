@@ -15,6 +15,7 @@
     ·
     <a href="https://github.com/Elxss/Image-Captcha-Solver/issues">Request Feature</a>
   </p>
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -37,7 +38,9 @@
 <img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI1.gif" alt="Demo" width="60%">
 </div>
 
+<div align="center">
 ### About The Project
+
 
 You're making a bot farm ? or a Scrapper ?
 
@@ -50,6 +53,7 @@ A Small API running in Python Receives the Tickets and replies to them as if it 
 Consider Staring this project if you like it :)
 
 This project uses Python and a few modules
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
