@@ -122,7 +122,7 @@ class SolverGUI:
 
         self.options_menu.add_command(label="Quit", command=self.quit_app)
         self.options_menu.add_command(label="Credits", command=self.show_credits)
-        self.options_menu.add_command(label="Github Repo", command=self.show_credits)
+        self.options_menu.add_command(label="Github Repo", command=self.open_github_repo)
         
         
         self.menu_bar.add_cascade(label="More", menu=self.options_menu)
