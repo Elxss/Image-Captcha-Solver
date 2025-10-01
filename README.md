@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja">
+  <a href="https://github.com/Elxss/Image-Captcha-Solver">
     <img src="https://raw.githubusercontent.com/Elxss/Elxss.github.io/main/src/img/logo.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -11,9 +11,9 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja/issues">Report Bug</a>
+    <a href="https://github.com/Elxss/Image-Captcha-Solver/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja/issues">Request Feature</a>
+    <a href="https://github.com/Elxss/Image-Captcha-Solver/issues">Request Feature</a>
   </p>
 </div>
 
@@ -32,9 +32,9 @@
 
 ### About The Project
 
-<img src="https://raw.githubusercontent.com/Elxss/Bypass-cooldown-Anonym-Ninja/main/Preview/SolverGUI3.gif" alt="Demo">
-<img src="https://raw.githubusercontent.com/Elxss/Bypass-cooldown-Anonym-Ninja/main/Preview/SolverGUI2.gif" alt="Demo">
-<img src="https://raw.githubusercontent.com/Elxss/Bypass-cooldown-Anonym-Ninja/main/Preview/SolverGUI1.gif" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI3.gif" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI2.gif" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI1.gif" alt="Demo">
 
 You're making a bot farm ? or a Scrapper ?
 
