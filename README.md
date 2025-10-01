@@ -33,13 +33,14 @@
 
 ### Small Preview !
 <div align="center">
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI3.gif" alt="Demo" width="70%">
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI2.gif" alt="Demo" width="70%">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI3.gif" alt="Demo" width="60%">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI2.gif" alt="Demo" width="60%">
 <img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI1.gif" alt="Demo" width="60%">
 </div>
 
-<div align="center">
 ### About The Project
+<div align="center">
+
 
 
 You're making a bot farm ? or a Scrapper ?
