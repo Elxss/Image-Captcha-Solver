@@ -32,6 +32,7 @@
 </details>
 
 <div align="center">
+Small demo :)
 <img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/demo.gif" alt="Demo">
 
 </div>
