@@ -11,6 +11,8 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
 
+import webbrowser
+
 import configparser
 
 #### CFG parsing
@@ -283,6 +285,10 @@ class SolverGUI:
     def show_credits(self):
         """dialog box"""
         messagebox.showinfo(f"Image Solver {current_version} - Credits", f" Made with love by Elxss (myself)\n Never stop to learn !\n Please, Consider Staring this Project on Github :)\n Current Version : {current_version}")
+
+    def open_github_repo():
+        url = "https://github.com/Elxss/Image-Captcha-Solver"
+        webbrowser.open(url)
 
 
 #### API

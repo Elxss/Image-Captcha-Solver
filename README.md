@@ -30,11 +30,13 @@
   </ol>
 </details>
 
-### About The Project
+### Small Preview !
 
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI3.gif" alt="Demo">
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI2.gif" alt="Demo">
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI1.gif" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI3.gif" alt="Demo" width="75%" align="left">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI2.gif" alt="Demo" width="75%" align="center">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/SolverGUI1.gif" alt="Demo" width="75%" align="right">
+
+### About The Project
 
 You're making a bot farm ? or a Scrapper ?
 
