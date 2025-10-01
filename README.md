@@ -32,7 +32,7 @@
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/demo.gif" alt="Demo" width="60%">
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/demo.gif" alt="Demo">
 
 </div>
 
